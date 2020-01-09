@@ -25,27 +25,25 @@
         border-color: #50ff5c;
         border-width: 10px;
         border-radius: 5px;
-        background-color: #50ff5c;
-        
-}
+        background-color: #50ff5c;       
     }
     .game-item {
         border-width: 16px;
         border-style: solid;
-        border-top-color: #0077b3;
-        border-bottom-color: #005580;
-        border-left-color: #006699;
-        border-right-color: #006699;
-        background-color: #003366;
+        border-top-color: #cc8840;
+        border-bottom-color: #cc6540;
+        border-left-color: #ccab40;
+        border-right-color: #ccab40;
+        background-color: #40c5cc;
     }
     .game-item:hover {
         border-width: 16px;
         border-style: solid;
-        border-top-color: #0077b3;
-        border-bottom-color: #005580;
-        border-left-color: #006699;
-        border-right-color: #006699;
-        background-color: #003366;
+        border-top-color: #cc8840;
+        border-bottom-color: #cc6540;
+        border-left-color: #ccab40;
+        border-right-color: #ccab40;
+        background-color: #40c5cc;
     }
     #game-link {
         top: 0px;
