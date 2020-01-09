@@ -1,31 +1,31 @@
     body {
-         background-color: #003366;
+         background-color: #ff7f50;
     }
     h1 {
         font-family: courier new;
         text-align: center;
-        color:#48D1CC;
+        color:#5650ff;
     }
     h2 {
         font-family: courier new;
         text-align: center;
-        color:#48D1CC;
+        color:#5650ff;
     }
     h3 {
         font-family: courier new;
-        color:#48D1CC;
+        color:#5650ff;
     }
     p {
         font-family: courier new;
         font-size: 12px;
-        color:#48D1CC
+        color:#5650ff;
     }
     #titlecontent {
         border-style: solid;
         border-color: white;
         border-width: 10px;
         border-radius: 5px;
-        background-color: white;
+        background-color: #50ff5c;
         
 }
     }
@@ -54,7 +54,7 @@
     }
     #game-image {
         border-style: solid;
-        border-color: black;
+        border-color: #50ff5c;
         border-width: 5px;
         top: 0px;
         left: 0px;
@@ -67,7 +67,7 @@
         border-color: white;
         border-width: 5px;
         border-radius: 5px;
-        background-color: white;
+        background-color: #50ff5c;
     }
     a {
         text-decoration: none;
