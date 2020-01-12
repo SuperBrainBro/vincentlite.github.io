@@ -37,7 +37,7 @@
         background-color: #40c5cc;
     }
     .game-item:hover {
-        border-width: 16px;
+        border-width: 32px;
         border-style: solid;
         border-top-color: #cc8840;
         border-bottom-color: #cc6540;
