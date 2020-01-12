@@ -37,13 +37,13 @@
         background-color: #40c5cc;
     }
     .game-item:hover {
-        border-width: 32px;
+        border-width: 28px;
         border-style: solid;
         border-top-color: #cc8840;
         border-bottom-color: #cc6540;
         border-left-color: #ccab40;
         border-right-color: #ccab40;
-        background-color: #40c5cc;
+        background-color: #329699;
     }
     #game-link {
         top: 0px;
